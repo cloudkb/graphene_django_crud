@@ -20,8 +20,8 @@ setuptools.setup(
     ],
     install_requires=[
         "Django>=2.2",
-        "graphene>=2.1.8,<3",
-        "graphene-django>=2.8.0",
+        "graphene>=3.1.1",
+        "graphene-django>=3.0.0,",
     ],
     python_requires=">=3.6",
 )
